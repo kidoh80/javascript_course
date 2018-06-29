@@ -1,1 +1,3 @@
-console.log('Hello World');
+let productName = "Hammer";
+
+console.log(productName);
