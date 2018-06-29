@@ -1,1 +1,1 @@
-# javascript_course
+# Pluralsight JavaScript course Blackjack Game
