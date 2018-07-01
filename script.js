@@ -21,3 +21,4 @@ console.log("Welcome to Blackjack! You are dealt ");
 console.log(" " + playerCards[0]);
 console.log(" " + playerCards[1]);
 
+document.getElementById("answer").innerHTML = "Hello Dolly.";
